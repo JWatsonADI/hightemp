@@ -14,7 +14,7 @@ This reference design is a collaboration between ADI Alliance members VORAGO Tec
 
 
 ## User Guide & Downloads ##
-A Detailed User Guide for the EVAL-HT-200CDAQ1 / HT-DAB, showing how to set up the hardware and use the software,tools, and applications in combination, can be found on the Analog Devices wiki site (https://wiki.analog.com/resources/eval/user-guides/high-temp/ev-ht-200cdaq1), or visit http://www.voragotech.com/products/htdab1.
+A Detailed User Guide for the EVAL-HT-200CDAQ1 / HT-DAB-1, showing how to set up the hardware and use the software,tools, and applications in combination, can be found on the Analog Devices wiki site (https://wiki.analog.com/resources/eval/user-guides/high-temp/ev-ht-200cdaq1), or visit http://www.voragotech.com/products/htdab1.
 
 
 
